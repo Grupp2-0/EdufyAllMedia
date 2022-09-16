@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="5b35f00f-8893-4603-90b0-a3b0bcb7df3c" name="Changes" comment="" />
+=======
+    <list default="true" id="b96bdb5b-47bc-4d2f-9605-4d0da051df9d" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +14,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="2EqQY0OpyIOXzHrL3lU5amSCjF6" />
+=======
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EqRvysALHhpOYw56zj5DTfSqI5" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,12 +46,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="5b35f00f-8893-4603-90b0-a3b0bcb7df3c" name="Changes" comment="" />
       <created>1663320677592</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663320677592</updated>
       <workItem from="1663320678820" duration="179000" />
+=======
+      <changelist id="b96bdb5b-47bc-4d2f-9605-4d0da051df9d" name="Changes" comment="" />
+      <created>1663321363305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663321363305</updated>
+      <workItem from="1663321364507" duration="1404000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
