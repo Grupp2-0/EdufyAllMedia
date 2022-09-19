@@ -2,6 +2,7 @@
 <project version="4">
   <component name="JpaBuddyIdeaProjectConfig">
     <option name="defaultUnitInitialized" value="true" />
-    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="f08acca7-20f3-48ce-b732-da9d4588ecbf" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/edufy/EdufyAllMedia/model" />
   </component>
 </project>
