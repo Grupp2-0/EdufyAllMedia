@@ -9,5 +9,4 @@ import java.util.List;
 @Repository
 public interface ArtistMediaRepo extends JpaRepository<ArtistMedia, Integer> {
     List<ArtistMedia> findArtistMediaByArtistArtistId(int artistId);
-    //List<ArtistMedia> findArtistMediaByArtistArtist(Artist artist);
 }

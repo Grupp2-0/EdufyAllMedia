@@ -1,5 +1,6 @@
 package com.edufy.EdufyAllMedia.controller;
 import com.edufy.EdufyAllMedia.model.ArtistMedia;
+import com.edufy.EdufyAllMedia.model.Media;
 import com.edufy.EdufyAllMedia.services.ArtistService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,8 +16,7 @@ public class ArtistController {
     private ArtistService artistService;
 
     @GetMapping("/getuserbyartist")
-    public List<ArtistMedia> getArtistMediaById(int id) {
+    public List<Media> getArtistMediaById(int id) {
         return artistService.getMediaById(id);
     }
-
 }

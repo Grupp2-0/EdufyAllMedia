@@ -13,23 +13,26 @@ public class ArtistService {
 
     @Autowired
     private ArtistMediaRepo artistMediaRepo;
+    @Autowired
     private MediaRepo mediaRepo;
 
-    public List<ArtistMedia> getMediaById (int artistId){
+    public List<Media> getMediaById (int artistId){
 
-        return artistMediaRepo.findArtistMediaByArtistArtistId(artistId);
 
-/*        List<ArtistMedia> artistMedias = artistMediaRepo.findArtistMediaByArtistArtistId(artistId);
+     List<ArtistMedia> artistMedias = artistMediaRepo.findArtistMediaByArtistArtistId(artistId);
         List<Media> medias = new ArrayList<>();
 
+        //return artistMediaRepo.findArtistMediaByArtistArtistId(artistId);
+
+
         for (ArtistMedia a: artistMedias) {
-            medias.add(mediaRepo.findMediaById(a.getMediaMedia().getId()));
+            medias.add(mediaRepo.findMediaByIdEquals(a.getMediaMedia().getId()));
         }
 
         for (Media m: medias) {
             System.out.println(m.getMediaName());
         }
 
-        return medias;*/
+        return medias;
     }
 }

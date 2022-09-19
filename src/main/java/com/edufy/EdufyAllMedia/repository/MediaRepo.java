@@ -8,5 +8,5 @@ import java.util.List;
 
 @Repository
 public interface MediaRepo extends JpaRepository<Media, Integer> {
-        Media findMediaById(int mediaId);
+        Media findMediaByIdEquals(int mediaId);
 }
