@@ -30,3 +30,4 @@ replay_pid*
 .AppleDouble
 .LSOverride
 .idea/workspace.xml
+*.xml
