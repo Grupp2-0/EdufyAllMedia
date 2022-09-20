@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+.idea
+
 # Log file
 *.log
 
@@ -27,3 +29,5 @@ replay_pid*
 .DS_Store
 .AppleDouble
 .LSOverride
+.idea/workspace.xml
+*.xml

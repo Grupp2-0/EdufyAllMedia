@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="5b35f00f-8893-4603-90b0-a3b0bcb7df3c" name="Changes" comment="" />
-=======
-    <list default="true" id="b96bdb5b-47bc-4d2f-9605-4d0da051df9d" name="Changes" comment="" />
->>>>>>> Stashed changes
+    <list default="true" id="aea4bcd1-b04f-42fa-9375-0b5d2feb9def" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/EdufyAllMediaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/EdufyAllMediaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/model/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/model/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/model/ArtistMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/model/ArtistMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/model/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/model/Media.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/repository/ArtistMediaRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/repository/ArtistMediaRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/repository/MediaRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/repository/MediaRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/services/ArtistService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edufy/EdufyAllMedia/services/ArtistService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-<<<<<<< Updated upstream
-  <component name="ProjectId" id="2EqQY0OpyIOXzHrL3lU5amSCjF6" />
-=======
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
@@ -32,39 +41,67 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2EqRvysALHhpOYw56zj5DTfSqI5" />
->>>>>>> Stashed changes
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EyxUyLfrUmzGCljaCH6RQa2SBN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LikeDislike" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="LikeDislike" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edufy.LikeDislike.LikeDislike" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< Updated upstream
-      <changelist id="5b35f00f-8893-4603-90b0-a3b0bcb7df3c" name="Changes" comment="" />
-      <created>1663320677592</created>
+      <changelist id="aea4bcd1-b04f-42fa-9375-0b5d2feb9def" name="Changes" comment="" />
+      <created>1663581645448</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663320677592</updated>
-      <workItem from="1663320678820" duration="179000" />
-=======
-      <changelist id="b96bdb5b-47bc-4d2f-9605-4d0da051df9d" name="Changes" comment="" />
-      <created>1663321363305</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1663321363305</updated>
-      <workItem from="1663321364507" duration="1404000" />
->>>>>>> Stashed changes
+      <updated>1663581645448</updated>
+      <workItem from="1663581646856" duration="2451000" />
+      <workItem from="1663668101732" duration="544000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
