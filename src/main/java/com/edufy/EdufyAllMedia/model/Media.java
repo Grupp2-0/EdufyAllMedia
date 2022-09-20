@@ -1,5 +1,4 @@
 package com.edufy.EdufyAllMedia.model;
-
 import javax.persistence.*;
 import java.time.LocalDate;
 
@@ -10,13 +9,10 @@ public class Media {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "mediaId", nullable = false)
     private Integer id;
-
     @Column(name = "url", nullable = false, length = 200)
     private String url;
-
     @Column(name = "releaseDate", nullable = false)
     private LocalDate releaseDate;
-
     @Column(name = "mediaName", nullable = false, length = 100)
     private String mediaName;
 

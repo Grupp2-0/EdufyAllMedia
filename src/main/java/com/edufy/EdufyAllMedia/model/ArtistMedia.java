@@ -9,11 +9,9 @@ public class ArtistMedia {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "artistMediaId", nullable = false)
     private Integer id;
-
     @ManyToOne(fetch = FetchType.EAGER, optional = false)
     @JoinColumn(name = "artistArtistId", nullable = false)
     private Artist artistArtist;
-
     @ManyToOne(fetch = FetchType.EAGER, optional = false)
     @JoinColumn(name = "mediaMediaId", nullable = false)
     private Media mediaMedia;

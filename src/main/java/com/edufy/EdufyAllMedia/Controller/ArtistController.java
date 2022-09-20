@@ -1,5 +1,4 @@
 package com.edufy.EdufyAllMedia.controller;
-import com.edufy.EdufyAllMedia.model.ArtistMedia;
 import com.edufy.EdufyAllMedia.model.Media;
 import com.edufy.EdufyAllMedia.services.ArtistService;
 import org.springframework.beans.factory.annotation.Autowired;

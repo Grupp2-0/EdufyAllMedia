@@ -9,7 +9,6 @@ public class Artist {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "artistId", nullable = false)
     private Integer id;
-
     @Column(name = "artistName", nullable = false, length = 100)
     private String artistName;
 

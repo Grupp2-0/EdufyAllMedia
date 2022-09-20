@@ -17,22 +17,14 @@ public class ArtistService {
     private MediaRepo mediaRepo;
 
     public List<Media> getMediaById (int artistId){
-
-
      List<ArtistMedia> artistMedias = artistMediaRepo.findArtistMediaByArtistArtistId(artistId);
         List<Media> medias = new ArrayList<>();
-
-        //return artistMediaRepo.findArtistMediaByArtistArtistId(artistId);
-
-
         for (ArtistMedia a: artistMedias) {
             medias.add(mediaRepo.findMediaByIdEquals(a.getMediaMedia().getId()));
         }
-
         for (Media m: medias) {
             System.out.println(m.getMediaName());
         }
-
         return medias;
     }
 }
