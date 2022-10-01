@@ -29,5 +29,5 @@ replay_pid*
 .DS_Store
 .AppleDouble
 .LSOverride
-.idea/workspace.xml
+.idea\workspace.xml
 *.xml
