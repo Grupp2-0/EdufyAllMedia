@@ -14,7 +14,7 @@ public class ArtistController {
     @Autowired
     private ArtistService artistService;
 
-    @GetMapping("/getuserbyartist")
+    @GetMapping("/getmediabyartist")
     public List<Media> getArtistMediaById(int id) {
         return artistService.getMediaById(id);
     }
